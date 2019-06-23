@@ -5,7 +5,8 @@ import java.util.*;
 
 /**
  * @version 1.4 2007-04-07
- * @author Cay Horstmann hhhhh
+ * @author Cay Horstmann
+ * ÈÕÀú
  */
 
 public class CalendarTest
